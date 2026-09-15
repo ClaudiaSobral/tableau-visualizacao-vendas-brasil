@@ -3,8 +3,9 @@
 # tableau-visualizacao-vendas-brasil
 Repositório auxiliar para demonstrar meu processo de aprendizado em Tableau
 
+![Viz](/assets/Tableau_viz.png)
 
-> ❗❗❗❗Link do dashboard: [https://public.tableau.com/app/profile/claudia.sobral3111/viz/Vendasporregio_17894167074070/Painel1](https://public.tableau.com/app/profile/claudia.sobral3111/viz/Vendasporregio_17894167074070/Painel1)
+> **Link do dashboard**: [https://public.tableau.com/app/profile/claudia.sobral3111/viz/Vendasporregio_17894167074070/Painel1](https://public.tableau.com/app/profile/claudia.sobral3111/viz/Vendasporregio_17894167074070/Painel1)
 
 ## 📊 A ferramenta
 O Tableau Public é uma ferramenta gratuita de visualização especializada em lidar com dados relacionais. Nela, é possível publicar sua visualização de forma gratuita e explorar o trabalho de outros usuários.
