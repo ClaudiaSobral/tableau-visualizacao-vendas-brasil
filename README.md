@@ -1,8 +1,10 @@
+<img> ![Tableau_logo](/assets/Tableau-Logo-650x366.png) </img>
+
 # tableau-visualizacao-vendas-brasil
 Repositório auxiliar para demonstrar meu processo de aprendizado em Tableau
 
 
-> Link do painel: [https://public.tableau.com/app/profile/claudia.sobral3111/viz/Vendasporregio_17894167074070/Painel1](https://public.tableau.com/app/profile/claudia.sobral3111/viz/Vendasporregio_17894167074070/Painel1)
+> ❗❗❗❗Link do dashboard: [https://public.tableau.com/app/profile/claudia.sobral3111/viz/Vendasporregio_17894167074070/Painel1](https://public.tableau.com/app/profile/claudia.sobral3111/viz/Vendasporregio_17894167074070/Painel1)
 
 ## 📊 A ferramenta
 O Tableau Public é uma ferramenta gratuita de visualização especializada em lidar com dados relacionais. Nela, é possível publicar sua visualização de forma gratuita e explorar o trabalho de outros usuários.
@@ -27,11 +29,17 @@ A partir da disponibilização de dois datasets, o dataset.csv, contendo dados d
     - Em seguida, criou-se o Campo Calculado "Filtro Visibilidade do Mapa", arrastando o parâmetro para dentro dele. Isso fez com que o campo "lesse" o parâmetro.
     - O Campo Calculado "Filtro Visibilidade do Mapa" foi aplicado ao filtro de cada uma das três planilhas. Ao abrir o filtro, foi inserido no campo personalizado o valor correspondente da planilha ("País", "Estado" e "Cidade")
     - Por fim, as planilhas foram plottadas no painel final, explicitando o seletor com a opção "Mostrar parâmetro"
-   
+
+![tableau_demo](/assets/tableau_demo.gif)   
+
 ## 📝 Aprendizados
 O Tableau a princípio já era uma ferramenta que eu conhecia, mas essa foi uma oportunidade para aprender mais sobre as particularidades dela. Os principais aprendizados foram:
   - Criação de joins diretamente na ferramenta;
   - Criação de seletores personalizados.
+
+## Updates futuros
+- Melhoria no design do dashboard
+- -Ajuste de bug para levar o usuário para o mapa de "país" quando nenhuma visualização está selecionada.
 
 ## ✨ Conclusão
 - A partir da visualização, é possível perceber uma concentração das compras no Sudeste, Sul e Nordeste (principalmente no litoral deste).
